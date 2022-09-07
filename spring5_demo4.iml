@@ -94,5 +94,20 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/com.springsource.net.sf.cglib-2.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/com.springsource.org.aopalliance-1.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring-aspects-5.2.6.RELEASE.jar!/" />
+          <root url="file://$MODULE_DIR$" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
